@@ -1,0 +1,3 @@
+Welcome.
+This is a code for employee wage problem.
+Thank you!
